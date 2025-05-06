@@ -2,4 +2,4 @@
 
 ### Second Year UG in BSc Computer Science
 
-Currently working on a plant identification software application in collaboration with others on my degree
+Recently completed a plant identification software application ion collaboration for my Computing Project module
